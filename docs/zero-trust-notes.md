@@ -1,6 +1,6 @@
 # Zero Trust Cloud Network Notes  
 
-These notes summarize the AWS re:Inforce 2025 session "Integrate Zero Trust into your cloud network".
+These notes summarize how to Integrate Zero Trust into your AWS cloud network.
 
 ## Key Takeaways  
 
