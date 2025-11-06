@@ -1,0 +1,12 @@
+# Example VPC Lattice service network configuration
+ServiceNetwork:
+  Name: sample-service-network
+  Services:
+    - Name: example-service
+      Protocol: HTTP
+      Port: 80
+      Policy:
+        Statements:
+          - Effect: Allow
+            Principal: "*"
+            Action: vpc-lattice:Invoke
