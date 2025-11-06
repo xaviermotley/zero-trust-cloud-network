@@ -18,14 +18,7 @@ It showcases how identity‑centric access and network‑layer controls can be c
 This project demonstrates an end‑to‑end Zero Trust cloud network built with AWS services.  
 It integrates identity-aware access (AWS Verified Access), service-to-service security (VPC Lattice), and observability (CloudWatch / SIEM) under a Zero Trust model.  
 
----  
-
-### 🔹 High‑Level Diagram  
-<p align="center">  
-  <img src="./diagram.png" alt="Zero Trust Cloud Network Overview" width="900"/>  
-</p>  
-
----  
+---   
 
 ### 🔹 Zero Trust Control Plane  
 <p align="center">  
