@@ -26,14 +26,6 @@ This project demonstrates an end‑to‑end Zero Trust cloud network built with 
 
 ---  
 
-### 🔹 Zero Trust Control Plane  
-
-<p align="center">
-  <img src="./07c7391f-e679-4680-988d-921a1d7c1dd5.png" alt="Zero Trust Control Plane Overview" width="900"/>
-</p>
-
----  
-
 ### 🔹 Detailed Network Flow  
 
 <p align="center">
